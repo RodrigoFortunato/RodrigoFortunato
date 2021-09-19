@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RodrigoFortunato and I am an evolving developer. 
-- 👀 I’m interested in evolve.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on with a sustainable world.
-- 📫 How to reach me: rodrigofortunatocp2@gmail.com
+- 👋 Hi, Eu sou @RodrigoFortunato, sou um desenvolvedor em construção. 
+- 👀 Apaixonado por tecnologia e desenvolvimento.
+- 🌱 Desenvolvedor .NET e aprendendo um pouco de Python.
+- 💞️ A cada dia aprendendo mais um pouco sobre o mundo dos developers.
+- 📫 Encontre-me aqui: rodrigofortunatocp2@gmail.com ou pelo instagram @RodrigoFortunato.
 
 <!---
 RodrigoFortunato/RodrigoFortunato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
